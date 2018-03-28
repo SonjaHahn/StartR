@@ -1,0 +1,7 @@
+object,various formats,dimensions
+vector,FALSE,1
+factor,FALSE,1
+matrix,FALSE,2
+array,FALSE,various
+dataframe,TRUE,2
+list,TRUE,various

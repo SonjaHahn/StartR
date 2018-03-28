@@ -1,0 +1,7 @@
+"","object","various.formats","dimensions","group"
+"1","vector",FALSE,"1",1
+"2","factor",FALSE,"1",1
+"3","matrix",FALSE,"2",2
+"4","array",FALSE,"various",NA
+"5","dataframe",TRUE,"2",2
+"6","list",TRUE,"various",NA
