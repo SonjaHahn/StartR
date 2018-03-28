@@ -1,6 +1,6 @@
 # StartR
 
-Some R scripts used for a introductory workshop on R in 2012
+Some R scripts used for an introductory workshop on R in 2012
 
 # Introduction
 
